@@ -1,2 +1,2 @@
 # sengokumiki.github.io
-sengokumiki personal page
+sengokumiki's personal page
